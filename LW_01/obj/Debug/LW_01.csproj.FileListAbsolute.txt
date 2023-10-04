@@ -1,0 +1,8 @@
+C:\Users\Rek\source\repos\LW_01\bin\Debug\LW_01.exe.config
+C:\Users\Rek\source\repos\LW_01\bin\Debug\LW_01.exe
+C:\Users\Rek\source\repos\LW_01\bin\Debug\LW_01.pdb
+C:\Users\Rek\source\repos\LW_01\obj\Debug\LW_01.csproj.AssemblyReference.cache
+C:\Users\Rek\source\repos\LW_01\obj\Debug\LW_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rek\source\repos\LW_01\obj\Debug\LW_01.csproj.CoreCompileInputs.cache
+C:\Users\Rek\source\repos\LW_01\obj\Debug\LW_01.exe
+C:\Users\Rek\source\repos\LW_01\obj\Debug\LW_01.pdb
