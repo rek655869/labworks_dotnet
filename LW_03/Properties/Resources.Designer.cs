@@ -63,11 +63,42 @@ namespace LW_03.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2023_10_06_02_46_43 {
+            get {
+                object obj = ResourceManager.GetObject("_2023_10_06_02_46_43", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pic1 {
             get {
                 object obj = ResourceManager.GetObject("pic1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Формула_Лабораторная3 {
+            get {
+                object obj = ResourceManager.GetObject("Формула_Лабораторная3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Формула_Лабораторная31 {
+            get {
+                object obj = ResourceManager.GetObject("Формула_Лабораторная31", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
     }
 }

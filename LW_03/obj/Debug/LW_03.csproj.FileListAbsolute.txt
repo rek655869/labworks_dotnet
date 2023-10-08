@@ -11,3 +11,6 @@ C:\Users\Rek\source\repos\LW_03\obj\Debug\LW_03.exe
 C:\Users\Rek\source\repos\LW_03\obj\Debug\LW_03.pdb
 C:\Users\Rek\source\repos\LW_03\obj\Debug\LW_03.Menu.resources
 C:\Users\Rek\source\repos\LW_03\obj\Debug\LW_03.Ex_1.resources
+C:\Users\Rek\source\repos\LW_03\obj\Debug\LW_03.Ex_2.resources
+C:\Users\Rek\source\repos\LW_03\obj\Debug\LW_03.Ex_4.resources
+C:\Users\Rek\source\repos\LW_03\obj\Debug\LW_03.Ex_3.resources

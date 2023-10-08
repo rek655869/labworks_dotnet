@@ -52,6 +52,24 @@
     <Compile Include="Ex_1.Designer.cs">
       <DependentUpon>Ex_1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ex_2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ex_2.Designer.cs">
+      <DependentUpon>Ex_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ex_3.Designer.cs">
+      <DependentUpon>Ex_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ex_4.Designer.cs">
+      <DependentUpon>Ex_4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +86,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Ex_1.resx">
       <DependentUpon>Ex_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex_2.resx">
+      <DependentUpon>Ex_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex_3.resx">
+      <DependentUpon>Ex_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex_4.resx">
+      <DependentUpon>Ex_4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -99,7 +126,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="pic1.jpg" />
+    <None Include="Resources\2023-10-06_02-46-43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Формула_Лабораторная3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Формула_Лабораторная31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Формула1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

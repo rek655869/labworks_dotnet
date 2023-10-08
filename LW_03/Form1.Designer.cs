@@ -28,27 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.MainMenu = new System.Windows.Forms.ToolStripMenuItem();
             this.MainPanel = new System.Windows.Forms.Panel();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.главноеМенюToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // menuStrip1
-            // 
-            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.MainMenu});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(745, 28);
-            this.menuStrip1.TabIndex = 4;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
             // MainMenu
             // 
+            this.MainMenu.AutoSize = false;
+            this.MainMenu.MergeIndex = 0;
             this.MainMenu.Name = "MainMenu";
-            this.MainMenu.Size = new System.Drawing.Size(124, 24);
+            this.MainMenu.Size = new System.Drawing.Size(124, 26);
             this.MainMenu.Text = "Главное меню";
             this.MainMenu.Click += new System.EventHandler(this.MainMenu_Click);
             // 
@@ -57,17 +49,33 @@
             this.MainPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.MainPanel.Location = new System.Drawing.Point(0, 28);
             this.MainPanel.Name = "MainPanel";
-            this.MainPanel.Size = new System.Drawing.Size(745, 306);
+            this.MainPanel.Size = new System.Drawing.Size(608, 321);
             this.MainPanel.TabIndex = 5;
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.главноеМенюToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(608, 28);
+            this.menuStrip1.TabIndex = 6;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // главноеМенюToolStripMenuItem
+            // 
+            this.главноеМенюToolStripMenuItem.Name = "главноеМенюToolStripMenuItem";
+            this.главноеМенюToolStripMenuItem.Size = new System.Drawing.Size(124, 26);
+            this.главноеМенюToolStripMenuItem.Text = "Главное меню";
+            this.главноеМенюToolStripMenuItem.Click += new System.EventHandler(this.MainMenu_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(745, 334);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.ClientSize = new System.Drawing.Size(608, 349);
             this.Controls.Add(this.MainPanel);
             this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Лабораторная работа №3";
             this.menuStrip1.ResumeLayout(false);
@@ -78,9 +86,10 @@
         }
 
         #endregion
-        private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem MainMenu;
         private System.Windows.Forms.Panel MainPanel;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem главноеМенюToolStripMenuItem;
     }
 }
 

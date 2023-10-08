@@ -15,10 +15,28 @@ namespace LW_03
         public Ex_1()
         {
             InitializeComponent();
-            input_TextChanged(this, EventArgs.Empty);
         }
 
-        private void input_TextChanged(object sender, EventArgs e)
+        static double factorial(int n)
+        {
+            double res = 1;
+            for (int i = 1; i <= n; i++)
+                res *= i;
+            return res;
+        }
+
+        public static double EndlessSeries(double eps)
+        {
+            double s = 0, x = 1;
+            for (int i = 1; x >= eps; i++)
+            {
+                x = 1 / (Math.Sqrt(factorial(i)));
+                s += x;
+            }
+            return s;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
             double eps;
             try
@@ -36,7 +54,7 @@ namespace LW_03
                     MessageBoxOptions.DefaultDesktopOnly);
                 return;
             }
-            this.result.Text = string.Format("{0:g6}", Calculator.EndlessSeries(eps));
+            this.res.Text = string.Format("{0:g6}", EndlessSeries(eps));
         }
     }
 }
