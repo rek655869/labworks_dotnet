@@ -1,0 +1,11 @@
+C:\Users\Rek\source\repos\LW_05\bin\Debug\LW_05.exe.config
+C:\Users\Rek\source\repos\LW_05\bin\Debug\LW_05.exe
+C:\Users\Rek\source\repos\LW_05\bin\Debug\LW_05.pdb
+C:\Users\Rek\source\repos\LW_05\obj\Debug\LW_05.csproj.AssemblyReference.cache
+C:\Users\Rek\source\repos\LW_05\obj\Debug\LW_05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rek\source\repos\LW_05\obj\Debug\LW_05.Properties.Resources.resources
+C:\Users\Rek\source\repos\LW_05\obj\Debug\LW_05.csproj.GenerateResource.cache
+C:\Users\Rek\source\repos\LW_05\obj\Debug\LW_05.csproj.CoreCompileInputs.cache
+C:\Users\Rek\source\repos\LW_05\obj\Debug\LW_05.exe
+C:\Users\Rek\source\repos\LW_05\obj\Debug\LW_05.pdb
+C:\Users\Rek\source\repos\LW_05\obj\Debug\LW_05.Form1.resources

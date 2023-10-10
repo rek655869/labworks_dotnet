@@ -1,0 +1,8 @@
+C:\Users\Rek\source\repos\LW_05_ex2_console\bin\Debug\LW_05_ex2_console.exe.config
+C:\Users\Rek\source\repos\LW_05_ex2_console\bin\Debug\LW_05_ex2_console.exe
+C:\Users\Rek\source\repos\LW_05_ex2_console\bin\Debug\LW_05_ex2_console.pdb
+C:\Users\Rek\source\repos\LW_05_ex2_console\obj\Debug\LW_05_ex2_console.csproj.AssemblyReference.cache
+C:\Users\Rek\source\repos\LW_05_ex2_console\obj\Debug\LW_05_ex2_console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rek\source\repos\LW_05_ex2_console\obj\Debug\LW_05_ex2_console.csproj.CoreCompileInputs.cache
+C:\Users\Rek\source\repos\LW_05_ex2_console\obj\Debug\LW_05_ex2_console.exe
+C:\Users\Rek\source\repos\LW_05_ex2_console\obj\Debug\LW_05_ex2_console.pdb
