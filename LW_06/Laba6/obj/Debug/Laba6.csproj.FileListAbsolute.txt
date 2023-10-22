@@ -1,0 +1,14 @@
+C:\Users\STALKER\source\repos\Laba6\Laba6\bin\Debug\Laba6.exe.config
+C:\Users\STALKER\source\repos\Laba6\Laba6\bin\Debug\Laba6.exe
+C:\Users\STALKER\source\repos\Laba6\Laba6\bin\Debug\Laba6.pdb
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.csproj.AssemblyReference.cache
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.Form1.resources
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.Properties.Resources.resources
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.csproj.GenerateResource.cache
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.exe
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.pdb
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.Ex_1.resources
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.Ex_2.resources
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.Menu.resources
+C:\Users\STALKER\source\repos\Laba6\Laba6\obj\Debug\Laba6.Ex_3.resources
