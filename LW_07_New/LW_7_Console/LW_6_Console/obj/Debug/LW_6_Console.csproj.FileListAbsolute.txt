@@ -1,0 +1,7 @@
+C:\Users\STALKER\source\repos\LW_6_Console\LW_6_Console\bin\Debug\LW_6_Console.exe.config
+C:\Users\STALKER\source\repos\LW_6_Console\LW_6_Console\bin\Debug\LW_6_Console.exe
+C:\Users\STALKER\source\repos\LW_6_Console\LW_6_Console\bin\Debug\LW_6_Console.pdb
+C:\Users\STALKER\source\repos\LW_6_Console\LW_6_Console\obj\Debug\LW_6_Console.csproj.AssemblyReference.cache
+C:\Users\STALKER\source\repos\LW_6_Console\LW_6_Console\obj\Debug\LW_6_Console.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\source\repos\LW_6_Console\LW_6_Console\obj\Debug\LW_6_Console.exe
+C:\Users\STALKER\source\repos\LW_6_Console\LW_6_Console\obj\Debug\LW_6_Console.pdb
