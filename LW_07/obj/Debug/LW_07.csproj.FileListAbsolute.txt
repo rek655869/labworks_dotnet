@@ -1,0 +1,15 @@
+G:\Мой диск\repos\LW_07\bin\Debug\LW_07.exe.config
+G:\Мой диск\repos\LW_07\bin\Debug\LW_07.exe
+G:\Мой диск\repos\LW_07\bin\Debug\LW_07.pdb
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.csproj.AssemblyReference.cache
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.csproj.SuggestedBindingRedirects.cache
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.Form1.resources
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.Properties.Resources.resources
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.csproj.GenerateResource.cache
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.csproj.CoreCompileInputs.cache
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.exe
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.pdb
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.Menu.resources
+G:\Мой диск\repos\LW_07\obj\Debug\LW_6_App.Ex_1.resources
+G:\Мой диск\repos\LW_07\obj\Debug\LW_6_App.Ex_2.resources
+G:\Мой диск\repos\LW_07\obj\Debug\LW_6_App.Ex_3.resources
