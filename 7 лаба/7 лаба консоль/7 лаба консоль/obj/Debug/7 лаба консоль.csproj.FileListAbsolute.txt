@@ -1,0 +1,8 @@
+C:\Users\Nastya\Source\Repos\7 лаба консоль\7 лаба консоль\bin\Debug\7 лаба консоль.exe.config
+C:\Users\Nastya\Source\Repos\7 лаба консоль\7 лаба консоль\bin\Debug\7 лаба консоль.exe
+C:\Users\Nastya\Source\Repos\7 лаба консоль\7 лаба консоль\bin\Debug\7 лаба консоль.pdb
+C:\Users\Nastya\Source\Repos\7 лаба консоль\7 лаба консоль\obj\Debug\7 лаба консоль.csproj.AssemblyReference.cache
+C:\Users\Nastya\Source\Repos\7 лаба консоль\7 лаба консоль\obj\Debug\7 лаба консоль.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\Source\Repos\7 лаба консоль\7 лаба консоль\obj\Debug\7 лаба консоль.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Source\Repos\7 лаба консоль\7 лаба консоль\obj\Debug\7 лаба консоль.exe
+C:\Users\Nastya\Source\Repos\7 лаба консоль\7 лаба консоль\obj\Debug\7 лаба консоль.pdb
