@@ -41,14 +41,14 @@
             this.главноеМенюToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(734, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(734, 30);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // главноеМенюToolStripMenuItem
             // 
             this.главноеМенюToolStripMenuItem.Name = "главноеМенюToolStripMenuItem";
-            this.главноеМенюToolStripMenuItem.Size = new System.Drawing.Size(124, 24);
+            this.главноеМенюToolStripMenuItem.Size = new System.Drawing.Size(124, 26);
             this.главноеМенюToolStripMenuItem.Text = "Главное меню";
             this.главноеМенюToolStripMenuItem.Click += new System.EventHandler(this.MenuItem_Click);
             // 
@@ -56,9 +56,9 @@
             // 
             this.panel1.AutoSize = true;
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(0, 28);
+            this.panel1.Location = new System.Drawing.Point(0, 30);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(734, 368);
+            this.panel1.Size = new System.Drawing.Size(734, 366);
             this.panel1.TabIndex = 1;
             // 
             // Form1

@@ -17,8 +17,8 @@ namespace LW_07
         {
             InitializeComponent();
             MenuItem_Click(this, EventArgs.Empty);
-            
         }
+
 
         private void MenuItem_Click(object sender, EventArgs e)
         {

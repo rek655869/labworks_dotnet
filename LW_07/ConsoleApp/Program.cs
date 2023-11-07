@@ -46,6 +46,8 @@ namespace ConsoleApp
             {
                 Console.WriteLine("Вы ввели символ, а нужно число");
             }
+            Console.Write("Для продолжения нажмите любую клавишу...");
+            Console.ReadKey();
         }
 
         static void Exercise_1()
@@ -61,7 +63,6 @@ namespace ConsoleApp
             col = Convert.ToInt32(Console.ReadLine());
             res_ex1 = function_mass_excersice1_1(row, col);
             Console.WriteLine("Количество строк, в которых есть минимальный по модулю элемент массива = {0}", res_ex1);
-
         }
 
         static void Exercise_2()
@@ -86,12 +87,33 @@ namespace ConsoleApp
 
         static void Exercise_3()
         {
-
+            Random random = new Random();
+            Console.WriteLine("Задание 3");
+            Console.Write("Введите количество элементов одномерного массива\n>");
+            int n = GetInt();
+            int res = 0;
+            int[] mas = new int[n];
+            Console.WriteLine("\nМассив:");
+            for (int i = 0; i < n; i++)
+            {
+                mas[i] = random.Next(-10, 10);
+                Console.Write(mas[i] + " ");
+                if (mas[i] > 0)
+                    res++;
+            }
+            Console.WriteLine("\n\nКоличество положительных элементов массива: {0} ", res);
         }
 
         static void Exercise_4()
         {
-
+            Console.Write("Введите a\n>");
+            int a = GetInt();
+            Console.Write("Введите b\n>");
+            int b = GetInt();
+            int u = Ex_2_u(ref a, ref b);
+            int v = Ex_2_v(ref a, ref b);
+            Ex_2(in u, in v, out double result);
+            Console.WriteLine(" Значение k = {0}", result);
         }
 
         static void Exercise_5()
@@ -103,7 +125,7 @@ namespace ConsoleApp
             while (col_el < 2)
             {
                 Console.WriteLine("Введите количество элементов в массиве больше 1");
-                Console.Write("> ");
+                Console.WriteLine("> ");
                 col_el = Convert.ToInt32(Console.ReadLine());
             }
             exercise_3(col_el);
@@ -180,8 +202,10 @@ namespace ConsoleApp
             }
             for (int i = 0; i < count; i++)
             {
-                Console.Write(massive[i] + " ");
+                Console.Write("{0,4}", massive[i]);
+                Console.Write(" ");
             }
+            Console.WriteLine() ;
         }
 
         static void swap(ref int a, ref int b)
@@ -189,6 +213,44 @@ namespace ConsoleApp
             int c = a;
             a = b;
             b = c;
+        }
+
+        private static int GetInt()
+        {
+            int cur_y = Console.CursorTop;
+            int cur_x = Console.CursorLeft;
+            int res;
+            while (!int.TryParse(Console.ReadLine(), out res))
+            {
+                Console.SetCursorPosition(cur_x, cur_y);
+                Console.WriteLine("Не удалось получить значение,введите положительное число. Нажмите любую клавишу...");
+                Console.ReadKey();
+                Console.SetCursorPosition(cur_x, cur_y);
+                Console.Write(new string(' ', Console.WindowWidth));
+                Console.SetCursorPosition(cur_x, cur_y);
+            }
+            return res;
+        }
+
+        static int Ex_2_u(ref int a, ref int b)
+        {
+            if (a > (b - a))
+                return a;
+            else return (b - a);
+        }
+        static int Ex_2_v(ref int a, ref int b)
+        {
+            if (a * b < (a + b))
+                return a * b;
+            else return (a + b);
+        }
+
+        static double Ex_2(in int u, in int v, out double k)
+        {
+            if ((u + Math.Pow(v, 2)) < 3.14)
+                k = (u + Math.Pow(v, 2));
+            else k = 3.14;
+            return k;
         }
     }
 }

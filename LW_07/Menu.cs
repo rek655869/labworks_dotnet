@@ -36,7 +36,6 @@ namespace LW_07
                             UserControl us = new Ex_1();
                             panel.Controls.Clear();
                             panel.Controls.Add(us);
-                            //this.Parent.Parent.Size = us.Size;
                             us.Dock = DockStyle.Fill;
                             break;
                         } 
@@ -58,18 +57,18 @@ namespace LW_07
                         }  
                     case 3:
                         {
-                            /*UserControl us = new Ex_4();
+                            UserControl us = new Ex_4();
                             Controls.Clear();
                             Controls.Add(us);
-                            us.Dock = DockStyle.Fill;*/
+                            us.Dock = DockStyle.Fill;
                             break;
                         } 
                     case 4:
                         {
-                            /*UserControl us = new Ex_5();
+                            UserControl us = new Ex_5();
                             Controls.Clear();
                             Controls.Add(us);
-                            us.Dock = DockStyle.Fill;*/
+                            us.Dock = DockStyle.Fill;
                             break;
                         } 
                         

@@ -12,4 +12,6 @@ G:\Мой диск\repos\LW_07\obj\Debug\LW_07.pdb
 G:\Мой диск\repos\LW_07\obj\Debug\LW_07.Menu.resources
 G:\Мой диск\repos\LW_07\obj\Debug\LW_6_App.Ex_1.resources
 G:\Мой диск\repos\LW_07\obj\Debug\LW_6_App.Ex_2.resources
-G:\Мой диск\repos\LW_07\obj\Debug\LW_6_App.Ex_3.resources
+G:\Мой диск\repos\LW_07\obj\Debug\LW_6_App.Ex_5.resources
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.Ex_3.resources
+G:\Мой диск\repos\LW_07\obj\Debug\LW_07.Ex_4.resources
