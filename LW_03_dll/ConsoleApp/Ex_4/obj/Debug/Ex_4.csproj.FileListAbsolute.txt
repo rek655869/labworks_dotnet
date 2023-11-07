@@ -1,0 +1,6 @@
+C:\Users\Rek\source\repos\LW_03_dll\ConsoleApp\Ex_4\bin\Debug\Ex_4.dll
+C:\Users\Rek\source\repos\LW_03_dll\ConsoleApp\Ex_4\bin\Debug\Ex_4.pdb
+C:\Users\Rek\source\repos\LW_03_dll\ConsoleApp\Ex_4\obj\Debug\Ex_4.csproj.AssemblyReference.cache
+C:\Users\Rek\source\repos\LW_03_dll\ConsoleApp\Ex_4\obj\Debug\Ex_4.csproj.CoreCompileInputs.cache
+C:\Users\Rek\source\repos\LW_03_dll\ConsoleApp\Ex_4\obj\Debug\Ex_4.dll
+C:\Users\Rek\source\repos\LW_03_dll\ConsoleApp\Ex_4\obj\Debug\Ex_4.pdb
