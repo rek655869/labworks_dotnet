@@ -1,0 +1,7 @@
+C:\Users\STALKER\source\repos\LW_08_Console\LW_08_Console\bin\Debug\LW_08_Console.exe.config
+C:\Users\STALKER\source\repos\LW_08_Console\LW_08_Console\bin\Debug\LW_08_Console.exe
+C:\Users\STALKER\source\repos\LW_08_Console\LW_08_Console\bin\Debug\LW_08_Console.pdb
+C:\Users\STALKER\source\repos\LW_08_Console\LW_08_Console\obj\Debug\LW_08_Console.csproj.AssemblyReference.cache
+C:\Users\STALKER\source\repos\LW_08_Console\LW_08_Console\obj\Debug\LW_08_Console.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\source\repos\LW_08_Console\LW_08_Console\obj\Debug\LW_08_Console.exe
+C:\Users\STALKER\source\repos\LW_08_Console\LW_08_Console\obj\Debug\LW_08_Console.pdb
