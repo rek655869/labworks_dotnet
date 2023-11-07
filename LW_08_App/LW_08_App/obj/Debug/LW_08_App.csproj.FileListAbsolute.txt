@@ -1,0 +1,13 @@
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.csproj.AssemblyReference.cache
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.Ex_1.resources
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.Form1.resources
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.Menu.resources
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.Properties.Resources.resources
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.csproj.GenerateResource.cache
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.Ex_2.resources
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\bin\Debug\LW_08_App.exe.config
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\bin\Debug\LW_08_App.exe
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\bin\Debug\LW_08_App.pdb
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.exe
+C:\Users\STALKER\source\repos\LW_08_App\LW_08_App\obj\Debug\LW_08_App.pdb
