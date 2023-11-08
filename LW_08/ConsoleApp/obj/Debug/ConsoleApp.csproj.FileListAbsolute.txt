@@ -1,0 +1,7 @@
+G:\Мой диск\repos\LW_08\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+G:\Мой диск\repos\LW_08\ConsoleApp\bin\Debug\ConsoleApp.exe
+G:\Мой диск\repos\LW_08\ConsoleApp\bin\Debug\ConsoleApp.pdb
+G:\Мой диск\repos\LW_08\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+G:\Мой диск\repos\LW_08\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Мой диск\repos\LW_08\ConsoleApp\obj\Debug\ConsoleApp.exe
+G:\Мой диск\repos\LW_08\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,14 @@
+G:\Мой диск\repos\LW_08\bin\Debug\LW_08.exe.config
+G:\Мой диск\repos\LW_08\bin\Debug\LW_08.exe
+G:\Мой диск\repos\LW_08\bin\Debug\LW_08.pdb
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.csproj.AssemblyReference.cache
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.Form1.resources
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.Menu.resources
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.Properties.Resources.resources
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.csproj.GenerateResource.cache
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.csproj.CoreCompileInputs.cache
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.exe
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.pdb
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08_App.Ex_1.resources
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.Ex_2.resources
+G:\Мой диск\repos\LW_08\obj\Debug\LW_08.Ex_4.resources
