@@ -1,0 +1,15 @@
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\bin\Debug\LR_9_4.exe.config
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\bin\Debug\LR_9_4.exe
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\bin\Debug\LR_9_4.pdb
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.csproj.AssemblyReference.cache
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.Ex_3.resources
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.Form1.resources
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.Menu.resources
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.Properties.Resources.resources
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.csproj.GenerateResource.cache
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.exe
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.pdb
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.Ex_2.resources
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.Ex_1.resources
+C:\Users\STALKER\source\repos\LR_9_4\LR_9_4\obj\Debug\LR_9_4.Ex_4.resources
