@@ -39,6 +39,7 @@ namespace LW_10
                     Directory.CreateDirectory(folderPath);
                 }
 
+
                 string userFilePath = Path.Combine(folderPath, $"{login}.txt");
                 using (StreamWriter writer = File.CreateText(userFilePath))
                 {

@@ -40,7 +40,7 @@ namespace LW_10
                         us.Dock = DockStyle.Fill;
                         break;
                     }
-                case 3:
+                case 2:
                     {
                         Application.Exit();
                         break;

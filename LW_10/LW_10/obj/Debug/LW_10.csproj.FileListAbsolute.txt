@@ -24,3 +24,16 @@ G:\Мой диск\repos\LW_10-2\LW_10\LW_10\obj\Debug\LW_10.csproj.GenerateReso
 G:\Мой диск\repos\LW_10-2\LW_10\LW_10\obj\Debug\LW_10.csproj.CoreCompileInputs.cache
 G:\Мой диск\repos\LW_10-2\LW_10\LW_10\obj\Debug\LW_10.exe
 G:\Мой диск\repos\LW_10-2\LW_10\LW_10\obj\Debug\LW_10.pdb
+C:\Users\Git\LW_10\LW_10\bin\Debug\LW_10.exe.config
+C:\Users\Git\LW_10\LW_10\bin\Debug\LW_10.exe
+C:\Users\Git\LW_10\LW_10\bin\Debug\LW_10.pdb
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.csproj.AssemblyReference.cache
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.Ex_1_3.resources
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.Ex_2.resources
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.Form1.resources
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.Menu.resources
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.Properties.Resources.resources
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.csproj.GenerateResource.cache
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.csproj.CoreCompileInputs.cache
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.exe
+C:\Users\Git\LW_10\LW_10\obj\Debug\LW_10.pdb
