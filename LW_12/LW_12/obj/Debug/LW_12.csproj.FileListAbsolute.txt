@@ -1,0 +1,10 @@
+C:\Users\STALKER\source\repos\LW_12\LW_12\bin\Debug\LW_12.exe.config
+C:\Users\STALKER\source\repos\LW_12\LW_12\bin\Debug\LW_12.exe
+C:\Users\STALKER\source\repos\LW_12\LW_12\bin\Debug\LW_12.pdb
+C:\Users\STALKER\source\repos\LW_12\LW_12\obj\Debug\LW_12.csproj.AssemblyReference.cache
+C:\Users\STALKER\source\repos\LW_12\LW_12\obj\Debug\LW_12.Form1.resources
+C:\Users\STALKER\source\repos\LW_12\LW_12\obj\Debug\LW_12.Properties.Resources.resources
+C:\Users\STALKER\source\repos\LW_12\LW_12\obj\Debug\LW_12.csproj.GenerateResource.cache
+C:\Users\STALKER\source\repos\LW_12\LW_12\obj\Debug\LW_12.csproj.CoreCompileInputs.cache
+C:\Users\STALKER\source\repos\LW_12\LW_12\obj\Debug\LW_12.exe
+C:\Users\STALKER\source\repos\LW_12\LW_12\obj\Debug\LW_12.pdb
