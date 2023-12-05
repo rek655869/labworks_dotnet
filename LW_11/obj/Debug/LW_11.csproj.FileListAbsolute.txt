@@ -1,0 +1,12 @@
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\bin\Debug\LW_11.exe.config
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\bin\Debug\LW_11.exe
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\bin\Debug\LW_11.pdb
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.csproj.AssemblyReference.cache
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.Form1.resources
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.Properties.Resources.resources
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.csproj.GenerateResource.cache
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.csproj.CoreCompileInputs.cache
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.exe
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.pdb
+C:\Users\Rek\Мой диск (e.gladneva1357@gmail.com)\repos\LW_11\obj\Debug\LW_11.Form2.resources
